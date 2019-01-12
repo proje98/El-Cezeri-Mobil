@@ -113,7 +113,7 @@
 .content2 {
     background-color:#3a2910;
     width:440px;
-    height: 3050px;
+    height: 2820px;
     padding: 10px 20px 10px 20px;
     float: left;
     
@@ -139,6 +139,16 @@
     
     
 }
+
+.content5 {
+    background-color:#3a2910;
+    width:440px;
+    height:3050px;
+    padding: 10px 20px 10px 20px;
+    float: left;
+    
+    
+}
 .sidebar {
     background-color:#604b20   ;
     width:240px;  
@@ -152,7 +162,7 @@
 .sidebar3 {
     background-color:#604b20   ;
     width:240px;  
-    height: 3050px;
+    height: 2820px;
     float: right;
     padding: 10px 20px 10px 20px; 
     
@@ -173,6 +183,16 @@
     background-color:#604b20   ;
     width:240px;  
     height: 4400px;
+    float: right;
+    padding: 10px 20px 10px 20px; 
+    
+  
+}
+
+.sidebar5 {
+    background-color:#604b20   ;
+    width:240px;  
+    height: 3050px;
     float: right;
     padding: 10px 20px 10px 20px; 
     
