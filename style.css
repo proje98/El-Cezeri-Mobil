@@ -103,7 +103,7 @@
 .content {
     background-color:#3a2910;
     width:440px;
-    height: 90em;
+    height: 600px;
     padding: 10px 20px 10px 20px;
     float: left;
    
@@ -113,7 +113,7 @@
 .content2 {
     background-color:#3a2910;
     width:440px;
-    height: 160em;
+    height: 880px;
     padding: 10px 20px 10px 20px;
     float: left;
     
@@ -122,7 +122,7 @@
 .sidebar {
     background-color:#604b20   ;
     width:240px;  
-    height: 90em;
+    height: 600px;
     float: right;
     padding: 10px 20px 10px 20px; 
     
@@ -132,7 +132,7 @@
 .sidebar3 {
     background-color:#604b20   ;
     width:240px;  
-    height: 160em;
+    height: 880px;
     float: right;
     padding: 10px 20px 10px 20px; 
     
@@ -142,11 +142,11 @@
 .sidebar2 {
     background-color:#604b20   ;
     width:240px;  
-    height: auto;
+    height: 600px;
     float: right;
     padding: 10px 20px 10px 20px;  
     align: center; 
-    max-height: 2250em;
+    
 }
 .footer {
     background-image: linear-gradient( -90deg, #301800, #604b20);
