@@ -119,6 +119,26 @@
     
     
 }
+
+.content3 {
+    background-color:#3a2910;
+    width:440px;
+    height: 3880px;
+    padding: 10px 20px 10px 20px;
+    float: left;
+    
+    
+}
+
+.content4 {
+    background-color:#3a2910;
+    width:440px;
+    height:4000px;
+    padding: 10px 20px 10px 20px;
+    float: left;
+    
+    
+}
 .sidebar {
     background-color:#604b20   ;
     width:240px;  
@@ -132,7 +152,27 @@
 .sidebar3 {
     background-color:#604b20   ;
     width:240px;  
+    height: 3680px;
+    float: right;
+    padding: 10px 20px 10px 20px; 
+    
+  
+}
+
+.sidebar4 {
+    background-color:#604b20   ;
+    width:240px;  
     height: 3880px;
+    float: right;
+    padding: 10px 20px 10px 20px; 
+    
+  
+}
+
+.sidebar5 {
+    background-color:#604b20   ;
+    width:240px;  
+    height: 4000px;
     float: right;
     padding: 10px 20px 10px 20px; 
     
