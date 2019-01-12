@@ -103,10 +103,20 @@
 .content {
     background-color:#3a2910;
     width:440px;
-    height: auto;
+    height: 90em;
     padding: 10px 20px 10px 20px;
     float: left;
-    max-height: 2250em;
+   
+    
+}
+
+.content2 {
+    background-color:#3a2910;
+    width:440px;
+    height: 160em;
+    padding: 10px 20px 10px 20px;
+    float: left;
+    
     
 }
 .sidebar {
