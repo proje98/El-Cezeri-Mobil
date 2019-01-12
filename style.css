@@ -113,7 +113,7 @@
 .content2 {
     background-color:#3a2910;
     width:440px;
-    height: 3880px;
+    height: 3250px;
     padding: 10px 20px 10px 20px;
     float: left;
     
@@ -133,7 +133,7 @@
 .content4 {
     background-color:#3a2910;
     width:440px;
-    height:4000px;
+    height:4400px;
     padding: 10px 20px 10px 20px;
     float: left;
     
@@ -152,7 +152,7 @@
 .sidebar3 {
     background-color:#604b20   ;
     width:240px;  
-    height: 3680px;
+    height: 3250px;
     float: right;
     padding: 10px 20px 10px 20px; 
     
@@ -172,7 +172,7 @@
 .sidebar5 {
     background-color:#604b20   ;
     width:240px;  
-    height: 4000px;
+    height: 4400px;
     float: right;
     padding: 10px 20px 10px 20px; 
     
