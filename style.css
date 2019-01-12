@@ -1,0 +1,290 @@
+.cerceve { 
+        margin-left:auto;
+        margin-right:auto;
+        width: 760px;
+        background-color:#7c6249;
+        border:2px solid #301800;        
+}
+
+.menu {
+    
+    background:    #281d00;
+    width: 760px;
+    height: 50px;
+    display: inline-block;
+    float: left;
+    margin-bottom: 5px;    
+}
+
+
+ .btn {
+    background-color: #281d00;
+    color: #FFF8DC;
+    padding: 16px;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    float: left;
+    border-right:1px solid #7c634a;
+    width: 144px;
+    text-align: center;
+
+}
+
+.btn2 {
+    background-color: #3d2400;
+    color: #FFF8DC;
+    padding: 16px;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    border-right:1px solid #7c634a;
+
+    }
+
+.btn3 {
+    background-color: #281d00;
+    color: #FFF8DC;
+    padding: 16px;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    position: relative;
+    left: 41px;
+    width: 144px;
+    text-align: center;
+
+    }
+
+.dropdown {
+    position: absolute;
+    display: inline;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #604b20;
+    min-width: 181px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #FFF8DC;
+    padding: 8px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #3d2400}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.btn:hover, .btn3:hover, .dropdown:hover .btn {
+    background-color: #604b20;
+}
+ 
+
+
+.header {
+    background-image: url(resimler/czr.jpg);
+    background-size: 48em;
+    background-position: center;
+    width:760px;
+    height:200px;
+    margin-top: 55px;
+    margin-bottom: 5px;
+        background-repeat:no-repeat;
+        
+
+}
+.content {
+    background-color:#3a2910;
+    width:440px;
+    height: auto;
+    padding: 10px 20px 10px 20px;
+    float: left;
+    max-height: 2250em;
+    
+}
+.sidebar {
+    background-color:#604b20   ;
+    width:240px;  
+    height: auto;
+    float: right;
+    padding: 10px 20px 10px 20px; 
+    max-height: 2250em;
+  
+}
+
+.sidebar2 {
+    background-color:#604b20   ;
+    width:240px;  
+    height: auto;
+    float: right;
+    padding: 10px 20px 10px 20px;  
+    align: center; 
+    max-height: 2250em;
+}
+.footer {
+    background-image: linear-gradient( -90deg, #301800, #604b20);
+    width:760px;
+    height:66px;
+    clear: both;
+    position:static;
+}
+
+.img {
+    
+    height: 20px;
+    width: 20px;
+    position: inside;
+}
+.img_f {
+    
+    height: 16px;
+    width: 16px;
+    position: inside;
+}
+
+.h1 {
+        color:  #F0E68C;
+        font-weight: : bold;
+        font-family: "Verdana", Times, sans-serif;
+        font-size: 17px;
+}
+
+.p {
+        text-align:justify;
+        color:#FFF8DC;
+        font-family: "Verdana", Times, sans-serif;
+        font-size: 15px;
+}
+.p_sy {
+        
+        color:#FFF8DC;
+        font-family: "Verdana", Times, sans-serif;
+        font-size: 15px;
+}
+
+.p_ort{
+        text-align:center;
+        color:#FFF8DC;
+        font-family: "Verdana", Times, sans-serif;
+        font-size: 15px;
+}
+
+.k_baslık {
+        color:#DEB887;
+        font-family: "Verdana", Times, sans-serif;
+        font-size: 17px;
+      
+}
+
+.k_baslık_kln {
+         color:#C7812A;
+        font-family: "Verdana", Times, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+}
+
+.ftr { text-align: center;
+           padding-top: 31px;
+           color:#FFF8DC;
+           font-family: "Verdana", Times, sans-serif;
+           font-size: 14px; 
+}
+
+
+.sarmalama{
+width: 440px;
+}
+
+.sola-kaydir{
+float:left;
+padding: 6px 10px 2px 2px;
+}
+
+section {
+max-height: 15px;
+overflow: hidden;
+background-color: #665847;
+border-left:8px #3D362D solid;
+width: 370px;
+padding: 4px;
+color: #FFFFFF;
+-webkit-transition: max-height 1s ease;
+-moz-transition: max-height 1s ease;
+-o-transition: max-height 1s ease;
+transition: max-height 1s ease;
+font:14px Verdana;
+}
+
+section:hover {max-height: 200px;}
+
+
+
+span{font-weight: bold; color:#D2B48C; display:block; margin-bottom:7px;}  
+
+.a{
+text-decoration: none;
+}
+
+
+
+.resim-zoom{ 
+    float:right;
+    padding: 0 2px 2px 2px;
+    width: 230px;
+    height: 230px;
+    transition: all .1s ease-in; 
+    -moz-transition: all .1s ease-in; 
+    -webkit-transition: all .1s ease-in; 
+    -ms-transition: all .1s ease-in; 
+} 
+    
+.resim-zoom2{ 
+    float:right;
+    padding: 0 2px 2px 2px;
+    width: 230px;
+    height: 280px;
+    transition: all .1s ease-in; 
+    -moz-transition: all .1s ease-in; 
+    -webkit-transition: all .1s ease-in; 
+    -ms-transition: all .1s ease-in; 
+} 
+
+.resim-zoom3{ 
+    float:right;
+    padding: 0 2px 2px 2px;
+    width: 230px;
+    height: 160px;
+    transition: all .1s ease-in; 
+    -moz-transition: all .1s ease-in; 
+    -webkit-transition: all .1s ease-in; 
+    -ms-transition: all .1s ease-in; 
+}
+
+.resim-zoom:hover , .resim-zoom2:hover , .resim-zoom3:hover, .video-zoom:hover { 
+    z-index:2; 
+    -webkit-transform: scale(2); 
+    -ms-transform: scale(2); 
+    -moz-transform: scale(2); 
+    transform: scale(2);
+}
+
+.video-zoom{ 
+    float:right;
+    padding: 0;
+    width: 240px;
+    height: 250px;
+    transition: all .1s ease-in; 
+    -moz-transition: all .1s ease-in; 
+    -webkit-transition: all .1s ease-in; 
+    -ms-transition: all .1s ease-in; 
+} 
+
+
+}
